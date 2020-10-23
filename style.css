@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: darkorange;
+}
+
+#intro {
+    text-decoration-color: aqua;
+    text-shadow: 2px 2px red;
+}
+#sunearth{
+    font-size: 30px;
+    color:aqua;
+}
+#thomas{
+    font-size: 30px;
+    color: cornflowerblue;
+}
+#wonders{
+    font-size: 30px;
+    color: deepskyblue;
+}
